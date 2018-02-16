@@ -1,0 +1,1 @@
+CMake: 3.6.3@/Users/arnavlohe/Desktop/CLion.app/Contents/bin/cmake/bin/cmake
